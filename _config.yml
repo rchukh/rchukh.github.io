@@ -2,8 +2,8 @@
 
 title:            Obsessive autodidact
 locale:           en_US
-url:               http://0.0.0.0:4000
-#url:              http://rchukh.github.io
+#url:               http://0.0.0.0:4000
+url:              http://rchukh.github.io
 
 
 # Jekyll configuration
@@ -32,7 +32,7 @@ owner:
   bio: #"Describe your self."
   email: #
   disqus-shortname: 
-  twitter: #username
+  twitter: rchukh
   facebook: #username
   google:
     plus: #username
